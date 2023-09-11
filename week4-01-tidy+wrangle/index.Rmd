@@ -177,7 +177,7 @@ knitr::include_graphics("img/dplyr-part-of-tidyverse.png")
 - Goal for original data collection: Development of prediction models to classify a hotel booking's likelihood to be cancelled ([Antonia et al., 2019](https://www.sciencedirect.com/science/article/pii/S2352340918315191#bib5))
 
 ```{r message=FALSE}
-hotels <- read_csv("data/hotels.csv")
+hotels <- read_csv("https://github.com/rfordatascience/tidytuesday/raw/master/data/2020/2020-02-11/hotels.csv")
 ```
 
 .footnote[
@@ -515,8 +515,7 @@ Many of the styling principles are consistent across `%>%` and `+`:
 `r emo::ji("x")`
 
 ```{r eval=FALSE}
-ggplot(hotels, aes(x = hotel, y = deposit_type)) +
-  geom_bar()
+ggplot(hotels, aes(x = hotel, y = deposit_type))+geom_bar()
 ```
 
 `r emo::ji("white_check_mark")`
