@@ -8,11 +8,12 @@
 
 - [week2-02-viz-num-cat](week2-02-viz-num-cat).
 
+- [week4-01-tidy+wrangle](week3-01-tidy+wrangle).
+
+- [week4-02-df-join](week3-02-df-join).
+
 <!-- 
 
-- [week3-01-tidy+wrangle](week3-01-tidy+wrangle).
-
-- [week3-02-df-join](week3-02-df-join).
 
 - [week4-01-tidying](week4-01-tidying).
 
