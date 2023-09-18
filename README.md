@@ -10,12 +10,11 @@
 
 - [week4-01-tidy+wrangle](week4-01-tidy+wrangle).
 
-<!-- 
+- [week5-01-Fdf-join](week5-01-df-join).
 
-- [week5-02-df-join](week5-02-df-join).
+- [week5-02-tidying](week5-02-tidying).
 
-
-- [week4-01-tidying](week4-01-tidying).
+<!--
 
 - [week4-02-data-type+class](week4-02-data-type+class).
 
