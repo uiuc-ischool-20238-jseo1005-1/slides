@@ -18,10 +18,9 @@
 
 - [week6-02-data-import+recode](week6-02-data-import+recode).
 
+- [week7-01-web-scrape](week7-01-web-scrape).
+
 <!--
-
-
-- [week6-02-web-scrape](week6-02-web-scrape).
 
 - [week7-01-effective-dataviz](week7-01-effective-dataviz).
 
