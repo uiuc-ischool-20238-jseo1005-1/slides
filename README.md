@@ -20,9 +20,7 @@
 
 - [week7-01-web-scrape](week7-01-web-scrape).
 
-<!--
-
-- [week7-01-effective-dataviz](week7-01-effective-dataviz).
+<!-- - [week7-01-effective-dataviz](week7-01-effective-dataviz).
 
 - [week7-02-functions+iteration](week7-02-functions+iteration).
 
