@@ -20,11 +20,11 @@
 
 - [week7-01-web-scrape](week7-01-web-scrape).
 
-<!-- - [week7-01-effective-dataviz](week7-01-effective-dataviz).
+- [week8-01-functions+iteration](week8-01-functions+iteration).
 
-- [week7-02-functions+iteration](week7-02-functions+iteration).
+- [week8-02-effective-dataviz](week8-02-effective-dataviz).
 
-- [week8-01-studies-confounding](week8-01-studies-confounding).
+<!-- - [week8-01-studies-confounding](week8-01-studies-confounding).
 
 - [week8-02-regex](week8-02-regex).
 
