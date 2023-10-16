@@ -22,9 +22,11 @@
 
 - [week8-01-functions+iteration](week8-01-functions+iteration).
 
-- [week8-02-effective-dataviz](week8-02-effective-dataviz).
+- [week9-01-studies-confounding](week9-01-studies-confounding).
 
-<!-- - [week8-01-studies-confounding](week8-01-studies-confounding).
+- [week9-02-effective-dataviz](week9-02-effective-dataviz).
+
+<!-- 
 
 - [week8-02-regex](week8-02-regex).
 
