@@ -28,7 +28,7 @@
 
 <!-- 
 
-- [week8-02-regex](week8-02-regex).
+- [week9-03-regex](week9-03-regex).
 
 - [week10-01-language-of-models](week10-01-language-of-models).
 
