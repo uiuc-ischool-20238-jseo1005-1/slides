@@ -28,12 +28,11 @@
 
 - [week10-01-language-of-models](week10-01-language-of-models).
 
-- [week10-02-modeling-nonlinear-relationships](week10-02-modeling-nonlinear-relationships).
+- [week10-02-modeling-**nonlinear**-relationships](week10-02-modeling-nonlinear-relationships).
 
 <!-- 
 
 - [week9-03-regex](week9-03-regex).
-
 
 - [week11-01-model-multiple-predictors](week11-01-model-multiple-predictors).
 
