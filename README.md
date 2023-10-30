@@ -28,15 +28,15 @@
 
 - [week10-01-language-of-models](week10-01-language-of-models).
 
-- [week10-02-modeling-**nonlinear**-relationships](week10-02-modeling-nonlinear-relationships).
+- [week10-02-modeling-nonlinear-relationships](week10-02-modeling-nonlinear-relationships).
+
+- [week11-01-model-multiple-predictors](week11-01-model-multiple-predictors).
+
+- [week12-01-logistic-reg+feature_eng](week12-01-logistic-reg+feature_eng).
 
 <!-- 
 
 - [week9-03-regex](week9-03-regex).
-
-- [week11-01-model-multiple-predictors](week11-01-model-multiple-predictors).
-
-- [week11-02-logistic-reg+feature_eng](week11-02-logistic-reg+feature_eng).
 
 - [week12-02-text-analysis_tf](week12-01-text-analysis_tf).
 
