@@ -36,7 +36,8 @@
 
 <!-- 
 
-- [week9-03-regex](week9-03-regex).
+- [week12-02-regex](week12-02-regex).
+
 
 - [week12-02-text-analysis_tf](week12-01-text-analysis_tf).
 
