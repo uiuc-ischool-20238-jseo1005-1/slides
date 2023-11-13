@@ -1,5 +1,5 @@
 ---
-title: "Accessible Data Visualization in a Reproducible Way"
+title: "Accessible Data Visualization with Multimodalities"
 author: "JooYoung Seo"
 institute: "School of Information Sciences<br/>University of Illinois at Urbana-Champaign"
 output:
@@ -103,15 +103,9 @@ bib <- ReadBib("references.bib", check = FALSE)
 
 - Data sonification.
 
-- Reproducible + accessible data viz in DS workflow.
+- Data tactile representation.
 
----
-
-# Prerequisites...
-
-- Some experience with [R programming language](https://cran.r-project.org/).
-
-- Some background knowledge in [Pandoc Markdown](https://pandoc.org/MANUAL.html).
+- Multimodal data representation.
 
 ---
 
@@ -160,6 +154,12 @@ Non-visual interaction
 ]]
 ???
 Non-visual interaction: keyboard only and speaker instead of computer screen.---
+
+---
+
+# Refreshable Braille Display
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nkD1x4Lcq9M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -395,6 +395,14 @@ class: inverse, middle, center
 
 ---
 
+class: inverse, middle, center
+
+# What about Using AI?
+
+<iframe src="http://pitt.lti.cs.cmu.edu:7890/" width="100%" height="500"></iframe>
+
+---
+
 class: inverse, center, middle
 
 # Data Sonification
@@ -532,9 +540,9 @@ penguins %>%
 
 # Next Steps
 
-- [MAIDR: Multimodal Access and Interactive Data Representation](https://uiuc-ischool-accessible-computing-lab.github.io/MAIDR/).
+- [MAIDR: Multimodal Access and Interactive Data Representation](https://github.com/uiuc-ischool-accessible-computing-lab/maidr).
 
-- Funded by the Wallace Foundation and ISLS.
+- Funded by the Wallace Foundation, Teach Access, and Institute of Musium and Library Services.
 
 ---
 

@@ -34,14 +34,14 @@
 
 - [week12-01-logistic-reg+feature_eng](week12-01-logistic-reg+feature_eng).
 
+- [week13-01-accessible-viz](week13-01-accessible-viz).
+
 <!-- 
 
 - [week12-02-regex](week12-02-regex).
 
 
 - [week12-02-text-analysis_tf](week12-01-text-analysis_tf).
-
-- [week13-01-accessible-viz](week13-01-accessible-viz).
 
 - [week14-01-text-analysis_tfidf+sentimentanal](week14-01-text-analysis_tfidf+sentimentanal)
 
