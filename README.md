@@ -36,14 +36,13 @@
 
 - [week13-01-accessible-viz](week13-01-accessible-viz).
 
+- [week15-01-regex](week15-01-regex).
+
+- [week15-02-text-analysis_tf](week15-02-text-analysis_tf).
+
+- [week15-03-text-analysis_tfidf+sentimentanal](week15-03-text-analysis_tfidf+sentimentanal)
+
 <!-- 
-
-- [week12-02-regex](week12-02-regex).
-
-
-- [week12-02-text-analysis_tf](week12-01-text-analysis_tf).
-
-- [week14-01-text-analysis_tfidf+sentimentanal](week14-01-text-analysis_tfidf+sentimentanal)
 
 - [week14-02-shiny-practice](week14-02-shiny-practice)
 
