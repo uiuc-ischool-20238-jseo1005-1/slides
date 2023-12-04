@@ -42,9 +42,10 @@
 
 - [week15-03-text-analysis_tfidf+sentimentanal](week15-03-text-analysis_tfidf+sentimentanal)
 
+- [week16-01-shiny-practice](week16-01-shiny-practice)
+
 <!-- 
 
-- [week14-02-shiny-practice](week14-02-shiny-practice)
 
 - [week13-02-named_entity_recognition](week13-02-named_entity_recognition). -->
 
